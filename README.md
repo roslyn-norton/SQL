@@ -1,2 +1,2 @@
-# SQL
-learninghow to us mysql
+
+learning how to us mysql
